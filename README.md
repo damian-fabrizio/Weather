@@ -16,3 +16,4 @@ Firstly, the state or country of a given city is not specified in the applicatio
 ![weather1](https://github.com/damian-fabrizio/Weather/assets/135930665/f39a20a5-ad28-475b-b88c-f00b0a0797a5)
 ![weather2](https://github.com/damian-fabrizio/Weather/assets/135930665/acfc3a6f-f8ca-44f9-bf33-b2703650fa38)
 
+![weather3](https://github.com/damian-fabrizio/Weather/assets/135930665/21043bb9-b116-4f79-adea-13eb75b8a67b)
